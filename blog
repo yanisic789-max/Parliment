@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Parliment's Ready — Should insects be allowed as pets?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <h1>Parliment's Ready</h1>
+        <p class="tag">Independent news, fast analysis</p>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="blog.html" class="active">Opinion</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="card" style="margin-top:24px;">
+      <h2>Parliment erupts: Are insects the pets of tomorrow — or a public health risk?</h2>
+      <p class="meta">By Opinion Desk · Posted 3 hours ago</p>
+
+      <p class="lead">In a debate that has split the chamber and sent social media into a frenzy, representatives clashed over a proposed bill to legalise keeping certain insects as household pets. We publish the most contentious statements and the reactions that followed.</p>
+
+      <h3>The clash</h3>
+      <p>At the heart of the dispute is a clause that would allow households to keep a narrow list of non-invasive insects (selected beetles and stick insects) under regulated conditions. Supporters call it an evidence-based move to reduce demand for exotic mammals and to encourage low-impact companionship. Opponents called it "the beginning of a slippery slope" and have used language suggesting the measure undermines traditional values.</p>
+
+      <h3>Explosive testimony</h3>
+      <p>One MP declared on record: "Today we choose whether our living rooms become petting-zones for pests. I won't stand for it." Another compared the movement to a "cultural surrender," arguing that allowing insects as pets would lead to normalising other unusual practices. Protesters outside chanted both slogans and counters, ending in heated confrontations that local police described as 'unprecedented for an animal welfare debate'.</p>
+
+      <h3>Why this is controversial</h3>
+      <p>The row has become symbolic: for some it is about animal welfare science and alternative companionship; for others it is about identity, respect for tradition, and where to draw the line for what kinds of animals belong in homes. The debate has produced extreme rhetoric on both sides online — conspiracy theories on one corner and calls for 'radical tolerance' on the other.</p>
+
+      <h3>Parliment's Ready analysis</h3>
+      <p>We spoke to entomologists, public health experts, and ethicists. The evidence suggests that, with sensible regulation, a small subset of insects can be kept safely — but regulation and enforcement would be essential. The political theatre unfolding in parliment, however, shows the debate has already outgrown the science.</p>
+
+      <blockquote>"It's less about the insects and more about what the insects represent," said Dr. I. N. Fector, a cultural sociologist. "When symbolic issues take hold, rational policy-making becomes an afterthought."</blockquote>
+
+      <h3>Voices from the chamber</h3>
+      <p><strong>Proponent:</strong> "We have an obligation to explore humane, low-impact companionship options. Dogs and cats are resource intensive; insects are an obvious, sustainable choice for many households."</p>
+      <p><strong>Opposition:</strong> "This isn't about resources. This is about the fabric of society. What next? Allowing vermin? We must preserve a standard for domestic animals."</p>
+
+      <h3>Public reaction</h3>
+      <p>On social media, the debate has been incendiary. Hashtags both supporting and opposing the bill trended. Comment sections filled with extreme takes — some calling for cultural bans, others for radical freedom. Our community team removed repeated hate speech and doxxing attempts while monitoring the situation for safety.</p>
+
+      <h3>Our verdict</h3>
+      <p>Parliment's Ready believes that nuanced policy, backed by science and clear regulations, is the best way forward — but the chamber must first decide whether it is willing to debate rationally. Until then, this will remain one of the most divisive issues of the year.</p>
+
+      <p><a href="index.html">← Back to home</a></p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <h4>Contact</h4>
+        <p>Email: tips@parlimentsready.example</p>
+      </div>
+    </div>
+    <p class="copyright">© Parliment's Ready — Fictional site for demonstration purposes.</p>
+  </footer>
+</body>
+</html>
