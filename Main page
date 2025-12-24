@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Parliment's Ready — Independent News & Analysis</title>
+  <link rel="stylesheet" href="/workspace/parliments_ready/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <div class="brand">
+        <h1>Parliment's Ready</h1>
+        <p class="tag">Independent news, fast analysis</p>
+      </div>
+      <nav class="main-nav">
+        <a href="index.html" class="active">Home</a>
+        <a href="blog.html">Opinion</a>
+        <a href="#about">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div class="hero-left">
+        <h2>Public trust. Bold questions. Better answers.</h2>
+        <p class="lead">Parliment's Ready was founded to hold power to account and bring clear, fearless reporting to citizens everywhere.</p>
+        <p><a class="cta" href="blog.html">Read our latest controversial report →</a></p>
+      </div>
+      <aside class="hero-right">
+        <div class="card about-card" id="about">
+          <h3>About Parliment's Ready</h3>
+          <p>Established: 2017 (Founded by a group of former investigative journalists and data scientists.)</p>
+          <p>Headquarters: Fictional City, Nation</p>
+          <p>Annual reach: 12M monthly readers (estimated)</p>
+        </div>
+
+        <div class="card reviews">
+          <h3>Reader reviews</h3>
+          <p class="stars">★★★★★</p>
+          <p>"A must-read for anyone who wants fearless reporting." — Alex P.</p>
+          <p class="stars small">★★★★★</p>
+          <p>"Professional, sharp, and unafraid to ask hard questions." — Morgan R.</p>
+        </div>
+      </aside>
+    </section>
+
+    <section class="news-grid">
+      <article class="news card">
+        <h3>Parliment in uproar over proposed animal welfare bill</h3>
+        <p class="meta">Politics · Today</p>
+        <p>Opposition members accuse the majority of ignoring science. Our reporters dig into the clause that sparked the debate.</p>
+        <p><a href="blog.html">Read more →</a></p>
+      </article>
+
+      <article class="news card">
+        <h3>Data: Where your representatives stand</h3>
+        <p class="meta">Analysis · Yesterday</p>
+        <p>We publish a first-of-its-kind dataset tracking votes and public statements by representatives over the last decade.</p>
+        <p><a href="#">Explore the data →</a></p>
+      </article>
+
+      <article class="news card">
+        <h3>Local election preview</h3>
+        <p class="meta">Local · 2 days ago</p>
+        <p>Profiles of the candidates to watch in the coming local election cycle.</p>
+        <p><a href="#">Read more →</a></p>
+      </article>
+    </section>
+
+    <section class="editorial">
+      <h3>Editor's pick</h3>
+      <div class="card">
+        <h4>Why transparency beats partisanship</h4>
+        <p>Our editorial board explains why transparent parliamentary debate is vital — and how readers can demand better scrutiny.</p>
+        <p><a href="blog.html">Full opinion →</a></p>
+      </div>
+    </section>
+
+    <footer id="contact" class="site-footer">
+      <div class="container footer-inner">
+        <div>
+          <h4>Contact</h4>
+          <p>Email: tips@parlimentsready.example</p>
+          <p>Address: 42 Democracy Lane, Fictional City</p>
+        </div>
+        <div>
+          <h4>Follow</h4>
+          <p><a href="#">Twitter</a> · <a href="#">Instagram</a> · <a href="#">Mastodon</a></p>
+        </div>
+      </div>
+      <p class="copyright">© Parliment's Ready — All content fictional for demo purposes.</p>
+    </footer>
+  </main>
+</body>
+</html>
